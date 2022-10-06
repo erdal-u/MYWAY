@@ -1,7 +1,7 @@
 {
   "name": "myway",
   "version": "0.1.0",
-  "homepage": "erdal-u.github.io",
+  "homepage": "https://erdal-u.github.io/mywebsiste",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
