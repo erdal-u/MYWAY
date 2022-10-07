@@ -1,5 +1,3 @@
-nes (24 sloc)  740 Bytes
-
 import React from 'react';
 import Navbar from './components/Navbar';
 import './App.css';
