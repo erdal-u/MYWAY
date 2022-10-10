@@ -5,7 +5,7 @@ import './HeroSection.css';
 
 function HeroSection() {
   return (
-    <div className='hero-container'>
+    <div className='hero-container' style={{aligen: "center"}} >
         <video src='/videos/video-2.mp4' autoplay loop muted></video>
         <h1>NU BÖRJAR ÄVENTYRET</h1>
         <p> Vad väntar du på lets goo</p>
