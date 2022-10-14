@@ -8,8 +8,9 @@ export default function Services() {
   </div>
 
   <p>1. Bär t ex Jordgubbe Blåbär hallon mm</p>
-  <p>This is line 1</p>
-<p>This is line 2</p>
-<p>This is line 3</p>
+  <p>2. Spenat grönkål 
+ruccola  </p>
+<p> 3. Lax makril.</p>
+<p>Olive olja kokos olja.</p>
   </h1>;
 }
