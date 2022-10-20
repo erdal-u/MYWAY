@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../../App.css";
+import "./Signup.css";
 
 function SignUp() {
   const [errorMesseges, setErrorMessages] = useState({});
