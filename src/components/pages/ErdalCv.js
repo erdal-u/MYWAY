@@ -4,11 +4,11 @@ function ErdalCv() {
   return (
     <div>
       <img
-        src="images\CV.jpg"
+        src="./../../images/img-2.jpg"
         alt="blaaaaaaaaa
       "
       />
-      My resume
+      My resumea
     </div>
   );
 }
