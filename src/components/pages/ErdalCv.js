@@ -4,7 +4,7 @@ function ErdalCv() {
   return (
     <div>
       <img
-        src="./../../images/img-2.jpg"
+        src="./images/img-2.jpg"
         alt="blaaaaaaaaa
       "
       />
